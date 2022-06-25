@@ -1,5 +1,3 @@
-20 lines (17 sloc)  654 Bytes
-
 def sorted_func(greter_numbers_than_sum):
     top_five_numbers = []
 
