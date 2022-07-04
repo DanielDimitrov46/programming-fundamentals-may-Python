@@ -8,3 +8,4 @@ class Storage:
         pass
 
     def get_products(self):
+        return
